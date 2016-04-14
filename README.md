@@ -1,2 +1,2 @@
 # work-use
-SF use
+SF use only
