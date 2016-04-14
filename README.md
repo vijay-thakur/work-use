@@ -1,2 +1,2 @@
 # work-use
-SF use work only
+SF use work only for testing Repos.
